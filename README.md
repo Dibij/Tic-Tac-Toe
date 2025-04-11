@@ -1,3 +1,5 @@
+Here's the updated `readme.md` file with your addition about creating the `.exe` file:
+
 # Tic-Tac-Toe Game with AI Opponent
 
 ## Overview
@@ -26,6 +28,10 @@ A Python implementation of the classic Tic-Tac-Toe game with a graphical interfa
 3. Run the game:
    ```bash
    python tictactoe.py
+   ```
+4. Alternatively, use the pre-built executable in the `dist` folder (created with PyInstaller):
+   ```bash
+   pyinstaller --onefile --windowed --icon=favicon.ico Tik-Tac-Toe.py
    ```
 
 ## How to Play
