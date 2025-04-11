@@ -1,5 +1,3 @@
-Here's the updated `readme.md` file with your addition about creating the `.exe` file:
-
 # Tic-Tac-Toe Game with AI Opponent
 
 ## Overview
